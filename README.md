@@ -5,7 +5,7 @@
 ## Solution So Far..
 This is an archive (zip file) of a solution to the lab so far:
 
-![alt text](https://github.com/wit-hdip-comp-sci-2020/bundle-store/releases/tag/lab.01.end)
+[https://github.com/wit-hdip-comp-sci-2020/bundle-store/releases/tag/lab.01.end](https://github.com/wit-hdip-comp-sci-2020/bundle-store/releases/tag/lab.01.end)
 
 The exercises below can be attempted in any order. You may not have time to complete them all. They are intended to promote some experimentation on your part, and need not be submitted to the course web. If you have having issues - post on the slack "web-development" channel, or contact your tutors directly via Slack Direct Messaging.
 
@@ -17,7 +17,7 @@ Open the solution project, both in Sublime and a browser.
 ## Exercise 2: Index.html
 Just to get used to the editor, create a few more new apps in the 'apps.html', perhaps you can locate content from some web source (including images). For instance here:
 
-![alt text](https://setapp.com/apps)
+[https://setapp.com/apps](https://setapp.com/apps)
 
 Try to identify and replicate the way the code is indented in the existing content.
 
@@ -31,7 +31,7 @@ Currently you may not have the CSS file 'linked' to app.html or the directions.h
 ## Exercise 4: HTML Reference
 If you are finding initial contact with HTML a little challenging - this is an excellent starter resource to review:
 
-![alt text](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+[https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 It is short read.
 
 ## Exercise 5: Lists
@@ -39,4 +39,4 @@ In this lab you used the element <ul> in the index page.
 
 Investigate the use of <ol> , find out the differences between these elements here:
 
-![alt text](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_lists)
+[https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_lists](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_lists)
