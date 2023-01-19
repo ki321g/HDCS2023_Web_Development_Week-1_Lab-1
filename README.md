@@ -1,5 +1,5 @@
 ## Higher Diploma in Computer Science 2023
-# Web Development Week_1 - Lab-01 HTML Structure
+## Web Development Week_1 - Lab-01 HTML Structure
 
 ## Exercises
 ## Solution So Far..
