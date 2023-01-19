@@ -37,6 +37,6 @@ It is short read.
 ## Exercise 5: Lists
 In this lab you used the element <ul> in the index page.
 
-Investigate the use of <ol> , find out the differences between these elements here:
+Investigate the use of < ol > , find out the differences between these elements here:
 
 [https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_lists](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_lists)
