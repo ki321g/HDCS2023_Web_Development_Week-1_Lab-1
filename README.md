@@ -35,7 +35,7 @@ If you are finding initial contact with HTML a little challenging - this is an e
 It is short read.
 
 ## Exercise 5: Lists
-In this lab you used the element <ul> in the index page.
+In this lab you used the element < ul > in the index page.
 
 Investigate the use of < ol > , find out the differences between these elements here:
 
